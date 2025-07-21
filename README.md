@@ -2,17 +2,7 @@
 
 NISAR ATBD for Forest Disturbance  (2024/09/13)
 
-## Description of Notebooks
-
-
-
-
-
-
-
-
-
-### Installation and Setup:
+## Installation and Setup:
 1) Fork the repository
 
 2) Clone your fork to your local machine with an SSH key
@@ -31,7 +21,28 @@ NISAR ATBD for Forest Disturbance  (2024/09/13)
    ```
    jupyter notebook
    ```
-test
+
+## Information about the notebook:
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
 
    
 ### For Developers Submitting Code
