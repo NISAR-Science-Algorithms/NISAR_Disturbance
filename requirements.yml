@@ -1,4 +1,4 @@
-name: NISAR_L3_CropArea
+name: NISAR_Disturbance
 channels:
   - conda-forge
 dependencies:
