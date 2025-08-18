@@ -2,7 +2,8 @@
 
 NISAR ATBD for Forest Disturbance  (2024/09/13)
 
-## Installation and Setup:
+
+### Installation and Setup:
 1) Fork the repository
 
 2) Clone your fork to your local machine with an SSH key
@@ -21,28 +22,7 @@ NISAR ATBD for Forest Disturbance  (2024/09/13)
    ```
    jupyter notebook
    ```
-
-## Information about the notebook:
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
+test
 
    
 ### For Developers Submitting Code
@@ -78,6 +58,9 @@ NISAR ATBD for Forest Disturbance  (2024/09/13)
    This will run trufflehog pre-commit hooks to scan for any potential secrets. If secrets are detected, this will fail and you will need to resolve the issues
 8) Push your commit to your branch in your fork
    ```
+   git push --set-upstream origin {your_branch}
+   ```
+9) Go back to your fork on Github.com and submit a merge request
    git push --set-upstream origin {your_branch}
    ```
 9) Go back to your fork on Github.com and submit a merge request
