@@ -1,7 +1,8 @@
 # Forest_Disturbance
+Repository for the NISAR Ecosystems Forest Disturbance workflow
 
-NISAR ATBD for Forest Disturbance  (2024/09/13)
-
+# NISAR ATBD for Forest Disturbance
+This notebook describes the ATBD for generating a forest disturbance product from NISAR time series data stacks. The algorithm is designed to meet the Level 2 Science requirements for detecting forest disturbance. This notebook constitutes a combination of formulating the theoretical basis for the NISAR forest disturbance algorithm and a implementation of the algorithm in executable python code. A test data set accompanies the notebook that is publicly available on an cloudbucket and referenced in this notebook. Also accompanying the notebook is a python code library module that is imported into this notebook in order for the example of the algorithm to execute within the notebook.
 
 ### Installation and Setup:
 1) Fork the repository
